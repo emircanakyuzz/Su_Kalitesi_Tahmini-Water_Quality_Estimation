@@ -5,6 +5,7 @@ Kullandığım kütüphaneler,
 - Seaborn
 - Matplotlib
 - Sklearn
+
 ve kullandığım makine öğrenmesi algoritmaları,
 - Naive Bayes Algoritması
 - En Yakın Komşu Algoritması (KNN)
